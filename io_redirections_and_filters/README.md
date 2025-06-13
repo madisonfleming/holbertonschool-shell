@@ -1,2 +1,2 @@
 #!/bin/bash
-io redirections practice
+shell,initfiles,variables,expansions
